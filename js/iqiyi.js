@@ -18,7 +18,7 @@ JsBox, Node.js用户抓取Cookie说明：
 提取字母数字混合字段, 到&结束, 填入以下单引号内即可.
 */
 
-var cookie = '90kUQEe7zXWm1VVXKn6m1m2svwyWfm3pm3Nim3OJl6dsBEH9LVm1m2Km1FNYRIwVF8seyEfpYTG47'
+var cookie = '19QVczHyZQZm1jfyN3dXMsP6zEGZ6wE4rSjnhQTATYYyo1hm21cCm1JAaIwIsigERSyV004'
 
 /*********************
 QuantumultX 远程脚本配置:
